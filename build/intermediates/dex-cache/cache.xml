@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Alex\Desktop\Oball Manager\app\build\intermediates\exploded-aar\Oball Manager\androidVkSdk\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f7126a83cce5abfe6dc52c879c34e4931e68e96">
+        <dex dex="C:\Users\Alex\Desktop\Oball Manager\app\build\intermediates\pre-dexed\debug\classes-e78de7a0ca9ce8bade0caa93b7b1c7114a1c1f65.jar" />
+    </item>
+
+</items>
